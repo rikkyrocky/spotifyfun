@@ -79,4 +79,4 @@ def redirectpage():
     return redirect(SITE_URL + '/getTracks')
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True) #lol
